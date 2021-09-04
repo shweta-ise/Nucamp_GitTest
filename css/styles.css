@@ -1,5 +1,7 @@
+
+
 body {
-    font-family: "Open Sans", sans-serif;
+    font-family: "", sans-serif;
 }
 
 h1, h2, h3 {
@@ -52,5 +54,5 @@ footer {
 }
 
 .carousel {
-    border: solid #5637DD;
+    border: solid #5234d6;
 }
