@@ -1,3 +1,5 @@
+
+
 body {
     font-family: "", sans-serif;
 }
@@ -52,5 +54,14 @@ footer {
 }
 
 .carousel {
-    border: solid #5637DD;
+    border: solid #5234d6;
+}
+
+
+#carouselButton{
+
+    position:absolute;
+    right:0%;
+    bottom:0%;
+     z-index: 100;
 }
